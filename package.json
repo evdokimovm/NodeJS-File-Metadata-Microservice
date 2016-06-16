@@ -1,0 +1,9 @@
+{
+	"name": "File-Metadata-Microservice",
+	"main": "server.js",
+	"dependencies" : {
+		"express": "4.13.4",
+		"multer": "1.1.0",
+		"cors": "2.7.1",
+	}
+}
